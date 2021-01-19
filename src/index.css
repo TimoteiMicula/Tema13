@@ -8,3 +8,21 @@ body {
 .weatherPanel {
 	padding-top: 20px;
 }
+
+.temp{
+	color:#33A5FF;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+	
+}
+
+.hr{
+	background-size: 15px;
+	background-color: #33A5FF;
+	padding: 1px;
+}
